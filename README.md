@@ -38,46 +38,38 @@
 
 ---
 
-## 📂 Skills Overview  
+## 📂 Skills Overview
 
-### 🏆 Expertise  
-- **Frontend:** HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript (ES6+), React, Vue.js, Next.js  
-- **Backend:** PHP, Laravel, Node.js, Express.js, Django  
-- **Databases:** MySQL, MongoDB, PostgreSQL, Oracle  
-- **APIs & Auth:** REST APIs, GraphQL, Firebase, JWT  
-- **CS Fundamentals:** Data Structures, Algorithms, OOP, Problem Solving  
+### 🏆 Core Expertise
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 😎 Comfortable  
-- React Hook Form, WordPress  
-- SQL, PL/SQL, DBMS basics  
-- Tools: Postman, Git, GitHub, VS Code  
+### 🛠 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 📚 Familiar  
-- React Native (basic)  
-- Data Viz: Chart.js, MarkMap.js  
-- Other: Web Scraping, Data Analysis, NPM  
+### ⚡ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
----
+### 🧠 Soft Skills
+**Leadership | Communication | Teamwork | Problem Solving | Quick Learning | Adaptability**
 
-## 🛠 Tools & Workflow  
-- **Version Control:** Git & GitHub  
-- **IDEs:** VS Code  
-- **Project Management:** Website Clones, Landing Pages  
-- **Design:** Figma  
-- **Collaboration Tools:** AnyDesk, TeamViewer, VNC  
-- **Deployment:** Netlify, GitHub Pages  
-- **Office Apps:** Word, Excel, PowerPoint  
-
----
-
-## 🧠 Soft Skills  
-- Leadership & Teamwork  
-- Strong Communication  
-- Active Listening  
-- Quick Learning Ability  
-- Hard Working & Dedicated  
-
----
+--- 
 
 ## 📊 GitHub Stats  
 
