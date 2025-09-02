@@ -56,23 +56,47 @@
 ## 📂 Skills Overview
 
 ### 🏆 Core Expertise
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,php,laravel,mysql,nodejs,express,django" />
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+#### Backend
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 </div>
 
-### 📊 Skill Levels (Pro-Visual)
-| Skill | Level |
-|-------|-------|
-| HTML & CSS | ██████████ 100% |
-| JavaScript | █████████▏90% |
-| PHP & Laravel | █████████▏90% |
-| React | ████████▏80% |
-| Vue.js | ███████▏70% |
-| MySQL | █████████▏90% |
-| Node.js | ███████▏70% |
-| Django | █████▏50% |
-
 ---
+
+### 📊 Skill Proficiency
+
+<div align="center">
+HTML & CSS &nbsp; <img src="https://progress-bar.dev/100/?title=HTML%20%26%20CSS&color=2F81F7&suffix=%25" height="20"><br>
+JavaScript &nbsp; <img src="https://progress-bar.dev/90/?title=JavaScript&color=F7DF1E&suffix=%25" height="20"><br>
+PHP & Laravel &nbsp; <img src="https://progress-bar.dev/90/?title=PHP%20%26%20Laravel&color=777BB4&suffix=%25" height="20"><br>
+React &nbsp; <img src="https://progress-bar.dev/80/?title=React&color=61DAFB&suffix=%25" height="20"><br>
+Vue.js &nbsp; <img src="https://progress-bar.dev/70/?title=Vue.js&color=4FC08D&suffix=%25" height="20"><br>
+MySQL &nbsp; <img src="https://progress-bar.dev/90/?title=MySQL&color=4479A1&suffix=%25" height="20"><br>
+Node.js &nbsp; <img src="https://progress-bar.dev/70/?title=Node.js&color=339933&suffix=%25" height="20"><br>
+Django &nbsp; <img src="https://progress-bar.dev/50/?title=Django&color=092E20&suffix=%25" height="20"><br>
+</div>
+
 
 
 ## 🛠 Tools & Workflow
