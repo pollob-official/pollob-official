@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 I'm Pollob Ahmed Sagor </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer+from+Bangladesh;PHP+%7C+Laravel+%7C+React+%7C+Vue.js+%7C+MySQL;Passionate+about+Building+Scalable+%26+Efficient+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer+from+Bangladesh;PHP+%7C+Laravel+%7C+React+%7C+Vue.js+%7C+MySQL+%7C+WordPress;Passionate+about+Building+Scalable+%26+Efficient+Web+Apps" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="coding gif" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/code.gif">
@@ -30,6 +30,7 @@
 
 ---
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pollob-ahmed-sagor-959703157/" target="_blank">
@@ -51,6 +52,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" style="color:#D14836;"/>
   </a>
 </p>
+
+---
 
 
 ### 🏆 Core Expertise & Technical Skills
@@ -80,7 +83,6 @@
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
-- **DB Skills:** SQL, PL/SQL, DBMS basics, Forms & Reports
 
 #### APIs & CS Fundamentals
 - RESTful APIs, GraphQL, Firebase Auth, JWT  
@@ -128,7 +130,7 @@
 </p>
 
 ---
----
+
 
 ## 🏆 Achievements
 
