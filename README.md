@@ -41,21 +41,19 @@
   <a href="https://www.instagram.com/pollob_official/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="https://github.com/pollob-official" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/pollob_official" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
   <a href="mailto:pollob.workmail@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" width="40" style="color:#D14836;"/>
   </a>
 </p>
 
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vue,php,laravel,mysql,git,github,wordpress,vscode,figma" />
-</p>
-
----
 
 ## 📂 Skills Overview
-## 🌟 Skills
 
 ### 🏆 Core Expertise
 <div align="center">
