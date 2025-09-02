@@ -13,13 +13,20 @@
 ---
 
 ## 👨‍💻 About Me  
-- 💻 Currently working on **Shohoz Clone Website** as part of my training at IsDB-BISEW  
-- 🌱 Learning & improving **PHP, Laravel, MySQL** for full stack development  
-- 👯 Looking to collaborate on **Laravel, React, Vue.js & open-source projects**  
-- 🤝 Interested in **building scalable apps & optimizing workflows**  
-- 👨‍💻 Explore my work on [GitHub](https://github.com/pollob-official)  
+- 💻 I’m currently working on the **Suzuki Clone Website Project** ([Live Demo](https://suzuki-project.netlify.app/)) as part of my training at IsDB-BISEW.  
+
+- 🌱 I’m currently learning **PHP, Laravel, and MySQL** for Full Stack Development.  
+
+- 👯 I’m looking to collaborate on **Full Stack Web Development projects**, including Laravel, React, Vue.js applications, and open-source initiatives that help me grow while contributing to impactful solutions.  
+
+- 🤝 I’m seeking guidance and collaboration on **designing scalable web applications**, optimizing Laravel and React workflows, implementing efficient Vue.js solutions, and building high-performance databases.  
+
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/pollob-official).  
+
 - 📫 Reach me at **pollob.workmail@gmail.com**  
-- ⚡ Fun fact: *Curious to learn something new every single day!* 😎  
+
+- ⚡ Fun fact: *I’m passionate about learning something new every single day!* 😎  
+
 
 ---
 
