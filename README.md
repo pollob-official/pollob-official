@@ -30,6 +30,22 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pollob-ahmed-sagor-959703157/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pollob-ahmed-sagor" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/pollob.official" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pollob.official" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/pollob_official/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pollob_official" height="30" width="40" />
+  </a>
+  <a href="mailto:pollob.workmail@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="pollob.workmail@gmail.com" height="30" width="40" />
+  </a>
+</p>
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
@@ -39,51 +55,65 @@
 ---
 
 ## 📂 Skills Overview
+## 🌟 Skills
 
 ### 🏆 Core Expertise
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,php,laravel,mysql,nodejs,express,django" />
+</div>
 
-### 🛠 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 📊 Skill Levels (Pro-Visual)
+| Skill | Level |
+|-------|-------|
+| HTML & CSS | ██████████ 100% |
+| JavaScript | █████████▏90% |
+| PHP & Laravel | █████████▏90% |
+| React | ████████▏80% |
+| Vue.js | ███████▏70% |
+| MySQL | █████████▏90% |
+| Node.js | ███████▏70% |
+| Django | █████▏50% |
 
-### ⚡ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+---
 
-### 🧠 Soft Skills
-**Leadership | Communication | Teamwork | Problem Solving | Quick Learning | Adaptability**
 
---- 
+## 🛠 Tools & Workflow
+- Git & GitHub | VS Code | Figma | Postman | Netlify  
+- Team Collaboration: AnyDesk, TeamViewer, VNC  
+- Office Apps: Word, Excel, PowerPoint  
+
+---
+
+## 🧠 Soft Skills
+**Leadership | Communication | Teamwork | Problem Solving | Quick Learning | Dedication**  
+
+---
+
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pollob-official&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollob-official&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pollob-official&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=pollob-official&theme=transparent&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/pollob-official"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/pollob-ahmed-sagor-959703157/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:pollob.workmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=pollob-official&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ✍️ What I'm Working On
+- 🔨 Building my **Portfolio Site**  
+- 🚀 Experimenting with **Laravel APIs + React/Vue**  
+- 📝 Writing about **clean code & scalable design**  
+
+---
+
+<p align="center">
+  <i>✨ Thanks for visiting my profile — Always learning, always building 🚀</i>
 </p>
