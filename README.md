@@ -93,10 +93,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollob-official&layout=compact&theme=transparent&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=pollob-official&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=pollob-official&theme=transparent&hide_border=true" height="165" />
+ 
 </p>
 
+---
 ---
 
 ## 🏆 Achievements
