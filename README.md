@@ -89,8 +89,8 @@ Applied Informatics (09.04.03) - Target
 ### **🎯 Enterprise Projects**
 | Project | Tech Stack | Status | Live Demo |
 |---------|------------|--------|-----------|
-| Food Delivery ERP | PHP, MySQL, Bootstrap | ✅ Complete | [View Demo](https://pollob.intelsofts.com) |
-| React API Version | React, Node.js, Express | ✅ Complete | API Endpoints |
+| Food Delivery ERP | PHP, MySQL, Bootstrap | ✅ Complete | [View Demo](http://pollob.intelsofts.com/FoodDeliveryApp/admin) |
+| React API Version | React, Node.js, Express | ✅ Complete | [View Demo](http://pollob.intelsofts.com/react)  |
 | Supply Chain ERP | Laravel, MySQL, Vue.js | 🔄 Ongoing | In Development |
 | E-commerce Site | WordPress, WooCommerce | ✅ Complete | Live Site |
 
