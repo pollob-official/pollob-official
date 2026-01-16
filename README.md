@@ -1,24 +1,13 @@
-# 🚀 Pollob Ahmed Sagor
-### Full Stack Web Developer | PHP | Laravel | React | Vue.js
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Solutions;Passionate+About+Clean+Code;Always+Learning+Growing" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pollob-official&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/pollob-official?tab=followers">
-    <img src="https://img.shields.io/github/followers/pollob-official?label=Followers&style=social" alt="GitHub followers">
-  </a>
-</p>
-
----
-
-## 🎯 About Me
-
+🚀 Pollob Ahmed Sagor
+Full Stack Web Developer | PHP | Laravel | React | Vue.js
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Solutions;Passionate+About+Clean+Code;Always+Learning+Growing" alt="Typing SVG" /> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=pollob-official&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> <a href="https://github.com/pollob-official?tab=followers"> <img src="https://img.shields.io/github/followers/pollob-official?label=Followers&style=social" alt="GitHub followers"> </a> </p>
+🎯 About Me
 <img align="right" alt="coding gif" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/code.gif">
+javascript
 
-```javascript
+Copy
+
+Download
 const pollob = {
   pronouns: "He" | "Him",
   code: ["PHP", "JavaScript", "Python"],
@@ -39,8 +28,7 @@ const pollob = {
   },
   currentFocus: "Building Scalable Laravel Applications",
   funFact: "I turn coffee into code ☕ → 💻"
-
-
+};
 🔥 Skills & Expertise
 🎨 Frontend Development
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -84,29 +72,30 @@ https://github-readme-stats.vercel.app/api/pin/?username=pollob-official&repo=su
 </div>
 📌 Pinned Projects
 <p align="center"> <a href="https://github.com/pollob-official/suzuki-clone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=pollob-official&repo=suzuki-clone&theme=dark" /> </a> <a href="https://github.com/pollob-official/e-commerce-laravel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=pollob-official&repo=e-commerce-laravel&theme=dark" /> </a> <a href="https://github.com/pollob-official/react-task-manager"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=pollob-official&repo=react-task-manager&theme=dark" /> </a> <a href="https://github.com/pollob-official/portfolio-website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=pollob-official&repo=portfolio-website&theme=dark" /> </a> </p>
-
 📚 Learning Path
 Diagram
 Code
 
-Copy
-
 Download
 
 Fullscreen
-graph LR
-    A[Foundations] --> B[Frontend Mastery]
-    A --> C[Backend Development]
-    B --> D[React Ecosystem]
-    B --> E[Vue.js Ecosystem]
-    C --> F[Laravel Expertise]
-    C --> G[Node.js Stack]
-    D --> H[Full Stack Projects]
-    E --> H
-    F --> H
-    G --> H
-    H --> I[DevOps & Cloud]
+Foundations
 
+Frontend Mastery
+
+Backend Development
+
+React Ecosystem
+
+Vue.js Ecosystem
+
+Laravel Expertise
+
+Node.js Stack
+
+Full Stack Projects
+
+DevOps & Cloud
 
 📫 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/pollob-ahmed-sagor-959703157/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/pollob_official" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:pollob.workmail@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.facebook.com/pollob05" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://www.instagram.com/pollob_official/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://github.com/pollob-official" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
@@ -114,7 +103,6 @@ graph LR
 <div align="center">
 https://github-readme-stats.vercel.app/api?username=pollob-official&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical	https://github-readme-streak-stats.herokuapp.com/?user=pollob-official&theme=radical
 </div>
-
 💼 Professional Experience
 🔹 Full Stack Development
 Suzuki Clone Website - Complete automotive website with modern UI/UX
@@ -139,7 +127,6 @@ Communication | Leadership | Time Management
 
 🏆 Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pollob-official&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" /> </p>
-
 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 Laravel Best Practices for 2024
@@ -151,7 +138,6 @@ Building Scalable APIs with Node.js
 <!-- BLOG-POST-LIST:END -->
 🎵 Currently Listening To
 <p align="center"> <a href="https://spotify.com"> <img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Playing" width="75%" /> </a> </p>
-
 📈 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 text
@@ -163,7 +149,6 @@ PHP        ████████████████░░░░░░░
 JavaScript ████████░░░░░░░░░░░░░░░░░   30.0%
 Python     ██░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 <!--END_SECTION:waka-->
-
 ✨ Fun Facts
 <div align="center">
 🔥 This Year's Stats:
@@ -175,7 +160,6 @@ Python     ██░░░░░░░░░░░░░░░░░░░░░
 12 repositories created
 
 4 programming languages used
-
 
 ⚡ Daily Routine:
 
@@ -209,5 +193,4 @@ If you like what I do, consider giving a ⭐ to my repositories!
 https://img.shields.io/github/last-commit/pollob-official/pollob-official?label=Last%2520Updated&style=for-the-badge
 https://img.shields.io/website?url=https%253A%252F%252Fsuzuki-project.netlify.app&label=Suzuki%2520Project&style=for-the-badge
 
-</div>
-};
+</div> ```
