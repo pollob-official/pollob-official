@@ -39,7 +39,7 @@ const pollob = {
   },
   currentFocus: "Building Scalable Laravel Applications",
   funFact: "I turn coffee into code ☕ → 💻"
-};
+
 
 🔥 Skills & Expertise
 🎨 Frontend Development
@@ -210,3 +210,4 @@ https://img.shields.io/github/last-commit/pollob-official/pollob-official?label=
 https://img.shields.io/website?url=https%253A%252F%252Fsuzuki-project.netlify.app&label=Suzuki%2520Project&style=for-the-badge
 
 </div>
+};
