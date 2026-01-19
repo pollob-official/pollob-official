@@ -11,57 +11,80 @@
 ---
 
 ### 👨‍💻 Professional Profile
-I am a passionate **Full Stack Web Developer** with a focus on building scalable, high-performance web applications. Currently, I am an **IsDB-BISEW IT Scholar**, specializing in enterprise-grade software development. I have a deep understanding of **Clean Architecture**, **Object-Oriented Programming (OOP)**, and the **Repository & MVC Patterns**.
+Dedicated **Full Stack Web Developer** focused on building high-performance, scalable web applications. Currently an **IsDB-BISEW IT Scholar**, specializing in enterprise-grade software development. I have a strong foundation in **Clean Architecture**, **Object-Oriented Programming (OOP)**, and the **Repository Pattern**.
 
-* [cite_start]🚀 **Core Focus:** Developing robust Backend systems with **Laravel** and dynamic Frontends with **React.js**. [cite: 3, 15]
-* [cite_start]🏗️ **Enterprise Expertise:** Experienced in designing complex systems like **Supply Chain Management** and **Food Delivery ERPs**. [cite: 62]
-* [cite_start]🎓 **Educational Background:** Master’s Degree in English (MA) with a strong transition into high-level Software Engineering. [cite: 13, 64]
-* [cite_start]⚡ **Strengths:** High level of troubleshooting, debugging, and coordinating within team environments. [cite: 17, 26, 33]
+* 🔭 **Technical Focus:** Developing robust Backend systems with **Laravel** and dynamic Frontends with **React.js**.
+* 🏗️ **Enterprise Experience:** Proven track record in designing complex systems like **Supply Chain Management** and **Food Delivery ERPs**.
+* 🚀 **Technical Goal:** Aiming to leverage expertise and innovative problem-solving to achieve a senior developer position.
+* 🎓 **Academic:** Master’s Degree in English (MA) with a successful transition into high-level Software Engineering.
+* ⚡ **Soft Skills:** Expert in troubleshooting, debugging, and leading technical teams under pressure.
 
 ---
 
-### 🛠️ Technical Stack (Expertise)
+### 🛠️ Technical Stack (Deep Drive)
 
 #### **Backend & Logic**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-* [cite_start]**Proficiency:** Laravel, Raw PHP, JavaScript (ES6+), and Intellect Framework. [cite: 16, 57]
-* [cite_start]**Database:** **MySQL & MSSQL** (Advanced Query Joining and Reporting). [cite: 20, 57]
+* **Expertise:** Raw PHP, Laravel, Intellect Framework, and OOP.
+* **Architecture:** MVC Pattern, Repository Pattern, and RESTful API development.
 
 #### **Frontend & UI/UX**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-* [cite_start]**Proficiency:** React.js, Vue.js, jQuery, and AJAX. [cite: 15, 16, 45, 47]
-* [cite_start]**Design:** Clear concepts in HTML5 semantics, Flexbox, Grid, and Responsive Layouts. [cite: 21, 22]
+* **Expertise:** React.js, Vue.js, jQuery, Ajax, and Responsive Layout design.
+* **Design:** Clear understanding of HTML5 semantics, Flexbox, Grid, and SCSS.
 
-#### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-* [cite_start]**Proficiency:** Version control with Git, WordPress Plugin Development, and npm. [cite: 25, 44, 62]
+#### **Database & DevOps**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* **Expertise:** MySQL & MSSQL query joining and complex reporting.
+* **Tools:** Version control with Git/GitHub, Vite, and npm.
 
 ---
 
-### 🚀 Featured Enterprise Projects
+### 🚀 Key Professional Projects
 
-| Project | Key Modules & Innovations | Stack |
-| :--- | :--- | :--- |
-| **Supply Chain Management** | [cite_start]Price transparency, Batch Entry, Price Audit, Quality Certification, QR Code. [cite: 62] | Laravel, MySQL, jQuery |
-| **Food Delivery ERP** | [cite_start]Multi-role management (Admin, Restaurant, Rider), Automated Invoices & Reports. [cite: 62] | Core PHP, MySQL, CSS3 |
-| **API Builder (WP Plugin)** | [cite_start]DB Operations, JWT Authentication, and Integrated API Tester. [cite: 62] | WordPress, WooCommerce |
-| **Restaurant System** | [cite_start]User Role Management, real-time orders, Axios, and React Router integration. [cite: 62] | React.js, PHP (API) |
+#### 📦 Supply Chain Management System
+* **Modules:** Dashboard, Stakeholders, Batch Entry, Price Audit, Quality Certification, QR Code Integration.
+* **Impact:** Streamlined price transparency from farm to consumers.
+* **Stack:** Laravel, PHP, MySQL, jQuery, Bootstrap.
+* **Links:** [View Repository](https://github.com/pollob-official)
+
+#### 🍱 Food Delivery Management System (ERP)
+* **Modules:** Admin Panel, Multi-Restaurant Management, Order Tracking, Rider Logistics, Automated Invoicing.
+* **Stack:** Core PHP, MySQL, JavaScript, HTML, CSS3.
+* **Links:** [View Repository](https://github.com/pollob-official)
+
+#### 🔌 API Builder (WordPress Plugin)
+* **Modules:** DB Operations (table/column), JWT Authentication, Integrated API Tester.
+* **Stack:** WordPress, WooCommerce API.
+* **Links:** [View Repository](https://github.com/pollob-official)
+
+#### 🛵 Restaurant Management System
+* **Modules:** Real-time Order Management, Axios Integration, User Role Management.
+* **Stack:** React.js, Vite, Core PHP (API), MySQL.
+* **Links:** [View Repository](https://github.com/pollob-official)
 
 ---
 
 ### 📜 Professional Degrees & Certifications
-* [cite_start]**Web Application Development (WDPF):** IsDB-BISEW IT Scholarship Project (788 Hours). [cite: 35, 37]
-* [cite_start]**Industrial ERP Training:** Certified in professional ERP systems and complex reporting. [cite: 18]
-* [cite_start]**Digital Marketing:** BASIS Institute of Technology & Management (BITM). [cite: 49]
-* [cite_start]**Computer Application:** Rose Computers Institute (6 Months). [cite: 52, 54]
+* **Web Application Development (WDPF):** IsDB-BISEW IT Scholarship Project (788 Hours).
+* **Industrial ERP Training:** Certified in professional ERP systems and complex reporting.
+* **Digital Marketing:** BASIS Institute of Technology & Management (BITM).
+* **Computer Application:** Rose Computers Institute (6 Months).
+
+---
+
+### 📊 Professional Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollob-official&layout=compact&theme=vision-friendly-dark" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pollob-official&show_icons=true&theme=vision-friendly-dark" height="185" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
-* [cite_start]🌐 **Portfolio:** [pollob.intelsofts.com](https://pollob.intelsofts.com) [cite: 6]
-* [cite_start]💼 **LinkedIn:** [pollob-ahmed-sagor](https://www.linkedin.com/in/pollob-ahmed-sagor/) [cite: 7]
-* [cite_start]🐙 **GitHub:** [pollob-official](https://github.com/pollob-official) [cite: 8]
-* [cite_start]📧 **Email:** [pollob.workmail@gmail.com](mailto:pollob.workmail@gmail.com) [cite: 5]
-* [cite_start]📍 **Location:** Adabor, Dhaka, Bangladesh [cite: 4]
+* 🌐 **Portfolio:** [pollob.intelsofts.com](https://pollob.intelsofts.com)
+* 💼 **LinkedIn:** [pollob-ahmed-sagor](https://www.linkedin.com/in/pollob-ahmed-sagor/)
+* 📧 **Email:** [pollob.workmail@gmail.com](mailto:pollob.workmail@gmail.com)
+* 📍 **Location:** Dhaka, Bangladesh
 
-<p align="center"><i>"Always learning, always building, always improving."</i></p>
+<p align="center"><i>"Always learning, always building, always looking to improve."</i></p>
