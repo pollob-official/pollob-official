@@ -1,73 +1,65 @@
 <h1 align="center">Hi👋 I'm Pollob Ahmed Sagor </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Expert+in+Laravel%2C+React+%26+WordPress;Industrial+ERP+%26+Supply+Chain+Specialist;Passionate+about+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Laravel+%26+React+Specialist;Industrial+ERP+%26+Supply+Chain+Architecture;IsDB-BISEW+IT+Scholar" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding gif" width="380" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/code.gif">
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pollob-official&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-### 👨‍💻 Professional Summary
-[cite_start]Passionate **Full Stack Web Developer** specialized in **PHP, MySQL, Laravel, and React.js**[cite: 3, 10]. [cite_start]Ami scalable web applications toiri korte ebong complex troubleshooting korte bhalobashi[cite: 11, 17]. [cite_start]Bortomane ami **IsDB-BISEW** er scholarship-er adhne advanced web development training korchi[cite: 35, 36].
+### 👨‍💻 Executive Summary
+[cite_start]Dedicated **Full Stack Web Developer** focused on building high-performance, scalable web applications[cite: 1, 2]. [cite_start]Currently an **IsDB-BISEW IT Scholar** specializing in enterprise-grade software development[cite: 35, 36]. [cite_start]I have a strong foundation in **Clean Architecture**, **Object-Oriented Programming (OOP)**, and the **Repository Pattern**[cite: 19].
 
-* [cite_start]🚀 **Career Objective:** Senior Developer position-e pouchano ebong technical leadership prodaan kora[cite: 11].
-* [cite_start]🎓 **Academic Background:** Master's Degree in English[cite: 13, 64].
-* [cite_start]🛠️ **Current Role:** Junior Web Developer at **Intellect Software Ltd**[cite: 28, 42].
-* [cite_start]🏗️ **Core Strength:** Clear concept on **OOP**, **MVC**, ebong **Repository Patterns**[cite: 19].
-
----
-
-### [cite_start]🛠️ Technical Expertise [cite: 57]
-
-#### **Backend & Database**
-* **Languages:** PHP (Expert), JavaScript (Expert).
-* **Frameworks:** Laravel (Expert), Intellect Framework.
-* **Database:** MySQL & MSSQL (Expert in Query Joining & Reporting).
-* **CMS:** WordPress & WooCommerce (Good).
-
-#### **Frontend & Design**
-* **Library/Frameworks:** React.js (Expertise), Vue.js, jQuery, Ajax.
-* **Styling:** CSS3 (Flexbox/Grid), Tailwind CSS, Bootstrap, SCSS.
-* **Concepts:** HTML5 Semantics, Meta tags, Responsive Layouts.
+* [cite_start]🚀 **Technical Goal:** Aiming to leverage expertise to achieve a senior developer position[cite: 11].
+* [cite_start]🏗️ **Core Competency:** High level of troubleshooting, debugging, and problem-solving capabilities[cite: 17].
+* [cite_start]🎓 **Academic:** Master’s Degree in English (MA)[cite: 13, 64].
+* [cite_start]🤝 **Leadership:** Experience in coordinating with team members and providing technical support[cite: 26, 30].
 
 ---
 
-### [cite_start]🚀 Major Software Projects 
+### 🛠️ Technical Stack (Deep Drive)
 
-| Project Name | Modules & Key Features | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Supply Chain Management** | Dashboard, Stakeholders, Batch Entry, Price Audit, Quality Certified, QR Code. | Laravel, MySQL, jQuery | [GitHub](https://github.com/pollob-official) |
-| **Food Delivery ERP** | Admin, Restaurants, Menu Items, Customers, Order, Riders, Reports, Invoices. | Core PHP, MySQL, jQuery | [GitHub](https://github.com/pollob-official) |
-| **API Builder (Plugin)** | API Builder, DB Operations, JWT authentication, API Tester. | WordPress, WooCommerce | [GitHub](https://github.com/pollob-official) |
-| **Restaurant System** | User Management, Orders, Riders, Reports, Axios, React Router. | React.js, PHP (API), MySQL | [GitHub](https://github.com/pollob-official) |
-| **Suzuki Clone** | 7+ Static Pages pixel-perfect Desktop Clone. | HTML5 & Core CSS3 | [Live](https://suzuki-project.netlify.app/) \| [GitHub](https://github.com/pollob-official) |
-| **E-Learning** | Static Pages pixel-perfect Clone. | Bootstrap, SCSS, PHP | [GitHub](https://github.com/pollob-official) |
-| **Portfolio** | Framer motion & Tailwind CSS integration. | React.js, Tailwind | [Live](https://pollob.intelsofts.com) |
+#### **Backend & Logic**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* [cite_start]**Expertise:** Raw PHP, Laravel, Intellect Framework, and OOP[cite: 16, 19, 57].
+* [cite_start]**Architecture:** MVC Pattern, Repository Pattern, and RESTful API development[cite: 19, 57, 62].
+
+#### **Frontend & UI/UX**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+* [cite_start]**Expertise:** React.js, Vue.js, jQuery, Ajax, and Responsive Layout design[cite: 15, 16, 22, 57].
+* [cite_start]**Design:** Clear understanding of HTML5 semantics, Flexbox, Grid, and SCSS[cite: 21, 22, 62].
+
+#### **Database & DevOps**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* [cite_start]**Expertise:** MySQL & MSSQL query joining and complex reporting[cite: 20, 57].
+* [cite_start]**Tools:** Version control with Git/GitHub, Vite, and npm[cite: 25, 62].
 
 ---
 
-### 📜 Professional Certification
-* [cite_start]**Web Application Development (WDPF):** IsDB-BISEW (788 hours training)[cite: 35, 37].
-* [cite_start]**Industrial ERP Training:** Specialized certification in ERP development[cite: 18].
+### 🚀 Key Enterprise Projects
+
+| Project | Key Modules & Features | Stack |
+| :--- | :--- | :--- |
+| **Supply Chain Management** | [cite_start]Stakeholders, Batch Entry, Price Audit, Quality Certification, QR Code Integration. | [cite_start]Laravel, PHP, MySQL, jQuery. |
+| **Food Delivery ERP** | [cite_start]Admin, Restaurants, Riders, Order Management, Automated Invoices & Reports. | [cite_start]Core PHP, MySQL, jQuery, CSS3. |
+| **API Builder (WP Plugin)** | [cite_start]DB Operations, JWT Authentication, API Tester. | [cite_start]WordPress, WooCommerce. |
+| **Restaurant Management** | [cite_start]Real-time Orders, Axios, React Router, User Role Management. | [cite_start]React.js, Vite, PHP (API). |
+| **Portfolio Site** | [cite_start]Framer Motion, Tailwind CSS, Responsive Design. | [cite_start]React.js, Tailwind. |
+
+---
+
+### 📜 Professional Degrees & Certifications
+* [cite_start]**Web Application Development (WDPF):** IsDB-BISEW IT Scholarship Project (788 Hours)[cite: 35, 36, 37].
+* [cite_start]**Industrial ERP Training:** Certified in professional ERP systems and reporting[cite: 18].
 * [cite_start]**Digital Marketing:** BASIS Institute of Technology & Management (BITM)[cite: 49].
-* [cite_start]**Computer Application:** Rose Computers Institute (6 Months)[cite: 52, 54].
+* [cite_start]**Computer Application:** Rose Computers Institute (6 Months)[cite: 52, 53, 54].
 
 ---
 
-### [cite_start]🧠 Soft Skills & Abilities [cite: 71, 75, 76]
-* ✅ High level of Troubleshooting & Debugging capabilities.
-* ✅ Ability to work under pressure and manage stress.
-* ✅ Team player with experience in coordinating and helping team members.
-* ✅ Strong appetite for leading and honest life.
-
----
-
-### 📊 GitHub Stats & Contributions
+### 📊 Professional Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollob-official&layout=compact&theme=vision-friendly-dark" height="185" />
   <img src="https://github-readme-stats.vercel.app/api?username=pollob-official&show_icons=true&theme=vision-friendly-dark" height="185" />
@@ -75,11 +67,10 @@
 
 ---
 
-### [cite_start]📫 Connect With Me [cite: 4, 5, 7, 8]
-* 🌐 **Portfolio:** [pollob.intelsofts.com](https://pollob.intelsofts.com)
-* 📧 **Email:** [pollob.workmail@gmail.com](mailto:pollob.workmail@gmail.com)
-* 💼 **LinkedIn:** [pollob-ahmed-sagor](https://www.linkedin.com/in/pollob-ahmed-sagor/)
-* 🐙 **GitHub:** [pollob-official](https://github.com/pollob-official)
-* 📍 **Location:** Adabor, Dhaka, Bangladesh
+### 📫 Connect With Me
+* [cite_start]🌐 **Portfolio:** [pollob.intelsofts.com](https://pollob.intelsofts.com) [cite: 6]
+* [cite_start]💼 **LinkedIn:** [pollob-ahmed-sagor](https://www.linkedin.com/in/pollob-ahmed-sagor/) [cite: 7]
+* [cite_start]📧 **Email:** [pollob.workmail@gmail.com](mailto:pollob.workmail@gmail.com) [cite: 5]
+* [cite_start]📍 **Location:** Adabor, Dhaka-1209 [cite: 4]
 
-[cite_start]<p align="center"><i>"I certify that all details provided are correct to the best of my knowledge." [cite: 110]</i></p>
+[cite_start]<p align="center"><i>"Always learning, always building, always looking to improve." [cite: 76]</i></p>
