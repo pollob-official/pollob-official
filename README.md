@@ -82,7 +82,7 @@ Dedicated **Full Stack Web Developer** focused on building high-performance, sca
 ---
 
 ### 📫 Connect With Me
-* 🌐 **Portfolio:** [pollob.intelsofts.com](https://pollob.intelsofts.com)
+* 🌐 **Portfolio:** [pollob.intelsofts.com](http://pollob.intelsofts.com)
 * 💼 **LinkedIn:** [pollob-ahmed-sagor](https://www.linkedin.com/in/pollob-ahmed-sagor/)
 * 📧 **Email:** [pollob.workmail@gmail.com](mailto:pollob.workmail@gmail.com)
 * 📍 **Location:** Dhaka, Bangladesh
