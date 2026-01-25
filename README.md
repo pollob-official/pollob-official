@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 I'm Pollob Ahmed Sagor </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Laravel+%26+React+Specialist;Industrial+ERP+%26+Supply+Chain+Architecture;IsDB-BISEW+IT+Scholar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Laravel+%26+React+Specialist;Industrial+Manufacturing+ERP+%26+Supply+Chain+Architecture;IsDB-BISEW+IT+Scholar" alt="Typing SVG" />
 </p>
 
 <p align="center">
