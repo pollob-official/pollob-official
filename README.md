@@ -67,6 +67,7 @@ Dedicated **Full Stack Web Developer** focused on building high-performance, sca
 
 ### 📜 Professional Degrees & Certifications
 * **Web Application Development (WDPF):** IsDB-BISEW IT Scholarship Project (788 Hours).
+* **Responsive Web Design:** Build practical projects and gain the skills to create professional, user-friendly webpages (300 hours).
 * **Industrial ERP Training:** Certified in professional ERP systems and complex reporting.
 * **Digital Marketing:** BASIS Institute of Technology & Management (BITM).
 * **Computer Application:** Rose Computers Institute (6 Months).
